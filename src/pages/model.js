@@ -124,7 +124,7 @@ const Model = ({ imageDetails }) => {
                   transition={transition}>
                   <motion.img
                     src={require("../images/img_maria-pedraza_895_garaytalent.jpg")}
-                    alt='an image'
+                    alt='maria-pedraza-garaytalent-editorial'
                     style={{ scale: scale }}
                     initial={{ scale: 1.0 }}
                     animate={{
